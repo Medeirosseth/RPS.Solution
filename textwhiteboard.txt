@@ -1,0 +1,19 @@
+make sure user can only choose one of the three options (rock, paper, scissors)
+if users both pick same input ends in draw
+
+function(player1, player2)
+(rock, rock)
+(rock, scissors
+(rock, paper)
+(scissors, scissors)
+(scissors, rock)
+(scissors, paper)
+(paper, paper)
+(paper, rock)
+(paper, scissors)
+
+
+
+
+
+
